@@ -1,1 +1,0 @@
-# samply-component-finder
